@@ -1,0 +1,2 @@
+#!/bin/sh
+dcent-exec -q "/etc/motd"
